@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# About me
 
-You can use the [editor on GitHub](https://github.com/Nesper94/website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am a graduate student currently working in the [Grupo de Fundamentos y
+Enseñanza de la Física y los Sistemas Dinámicos](https://fenfisdi.home.blog/)
+and the GenomeSeq research hotbed at the [University of Antioquia
+(UdeA)](https://udea.edu.co)</a>, Colombia. Currently I am waiting
+to obtain my Master degree in Biology with emphasis on Systems Biology.
+I also work as assistant professor of the course of Genetics in the
+Institute of Biology at the UdeA.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Interests
 
-### Markdown
+I am mainly interested in the fields of Systems Biology, Molecular Biology,
+Genetics and Bioinformatics. I am also an enthusiast of Linux and FOSS and would like to
+learn more about programming and its applications to biology.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Educational background
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Nesper94/website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- MSc. Biology (2020) Universidad de Antioquia, Medellín, Colombia
+- BSc. Biology (2017) Universidad de Antioquia, Medellín, Colombia
