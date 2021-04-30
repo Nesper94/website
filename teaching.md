@@ -30,3 +30,10 @@ Genetics. Eventually, I also give introductory courses to Linux and Python.
 - <a href="docs/intro-R.html" target="_blank">Introducción a R - Parte 1</a>
 - <a href="docs/intro-R-02.html" target="_blank">Introducción a R - Parte 2</a>
 - <a href="translations.html" target="_blank">Artículos académicos traducidos al Español</a>
+
+<hr>
+<div class="footer">
+  <address class="mail">
+    Contact me: <a href="mailto:juan.arboleda2@udea.edu.co">juan.arboleda2@udea.edu.co</a>
+  </address>
+</div>
