@@ -1,3 +1,10 @@
 title: Juan Camilo Arboleda Rivera
 description: Personal website
 theme: jekyll-theme-minimal
+
+# Links to include in menu navigation
+links:
+  - title: "Home"
+    url: "/"
+  - title: "Research"
+    url: "/research.md"
