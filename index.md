@@ -18,3 +18,10 @@ learn more about programming and its applications to biology.
 
 - MSc. Biology (2020) Universidad de Antioquia, Medellín, Colombia
 - BSc. Biology (2017) Universidad de Antioquia, Medellín, Colombia
+
+<hr>
+<div class="footer">
+  <address class="mail">
+    Contact me: <a href="mailto:juan.arboleda2@udea.edu.co">juan.arboleda2@udea.edu.co</a>
+  </address>
+</div>
