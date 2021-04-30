@@ -22,18 +22,11 @@ Genetics. Eventually, I also give introductory courses to Linux and Python.
 
 ## Didactic material (in Spanish)
 
-- <a href="docs/clase-intro-linux.pdf" target="_blank">Introducción a Linux</a></li>
-- <a href="docs/how-to-install-linux.pdf" target="_blank">Guía de instalación de Linux</a></li>
-- <a href="docs/2020-05-08-intro-git-github.html" target="_blank">Introducción a Git y GitHub</a></li>
-- <a href="https://github.com/Nesper94/intro-python" target="_blank">Introducción a Python</a></li>
-- <a href="vglii-example/genetics-vgl2.html" target="_blank">Genética con VGLII</a></li>
-- <a href="docs/intro-R.html" target="_blank">Introducción a R - Parte 1</a></li>
-- <a href="docs/intro-R-02.html" target="_blank">Introducción a R - Parte 2</a></li>
-- <a href="translations.html" target="_blank">Artículos académicos traducidos al Español</a></li>
-
-<hr>
-<footer>
-  <address class="mail">
-    Contact me: <a href="mailto:juan.arboleda2@udea.edu.co">juan.arboleda2@udea.edu.co</a>
-  </address>
-</footer>
+- <a href="docs/clase-intro-linux.pdf" target="_blank">Introducción a Linux</a>
+- <a href="docs/how-to-install-linux.pdf" target="_blank">Guía de instalación de Linux</a>
+- <a href="docs/2020-05-08-intro-git-github.html" target="_blank">Introducción a Git y GitHub</a>
+- <a href="https://github.com/Nesper94/intro-python" target="_blank">Introducción a Python</a>
+- <a href="vglii-example/genetics-vgl2.html" target="_blank">Genética con VGLII</a>
+- <a href="docs/intro-R.html" target="_blank">Introducción a R - Parte 1</a>
+- <a href="docs/intro-R-02.html" target="_blank">Introducción a R - Parte 2</a>
+- <a href="translations.html" target="_blank">Artículos académicos traducidos al Español</a>
