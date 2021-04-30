@@ -1,3 +1,7 @@
+---
+title: Science in Spanish
+---
+
 # Traducciones de artículos al Español
 
 Los estudiantes de ciencias a menudo luchan para aprender un montón
