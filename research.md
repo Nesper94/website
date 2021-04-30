@@ -30,8 +30,8 @@ mosquito _Aedes aegypti_ and its interactions with Dengue Virus and
 Chikungunya Virus. I worked a lot with cell cultures and plaque assays.
 
 <hr>
-<footer>
+<div class="footer">
   <address class="mail">
     Contact me: <a href="mailto:juan.arboleda2@udea.edu.co">juan.arboleda2@udea.edu.co</a>
   </address>
-</footer>
+</div>
