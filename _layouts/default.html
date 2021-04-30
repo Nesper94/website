@@ -1,24 +1,28 @@
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
+<!doctype html>
+<html lang="en">
   <head>
     <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/css/style.css">
     <link rel="shortcut icon" href="images/nea-onnim-g.svg">
   </head>
   <body>
     <nav>
       <img src="images/nea-onnim-nav.svg" alt="Nea onnim no sua, a ohu." width="50px">
-      <ul>
-        <li><a href="index.html">About me</a></li>
-        <li><a href="research.html">Research</a></li>
-        <li><a href="teaching.html">Teaching</a></li>
-        <li><a href="personal.html">Personal</a></li>
-        <li><a href="translations.html">Science in Spanish</a></li>
-      </ul>
+      <a href="index.html">About me</a>
+      <a href="research.html">Research</a>
+      <a href="teaching.html">Teaching</a>
+      <a href="personal.html">Personal</a>
+      <a href="translations.html">Science in Spanish</a>
       <a href="https://fenfisdi.weebly.com/" target="_blank"><img src="images/fenfisdi.png" alt="FENFISDI logo"
           width="100px" id="fenfisdi"></a>
     </nav>
-
-    {{ content }}
-
+    <h1>{{ page.title }}</h1>
+    <section>
+      {{ content }}
+    </section>
+    <footer>
+      &copy; to me
+    </footer>
   </body>
 </html>
