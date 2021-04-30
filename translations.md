@@ -37,8 +37,8 @@ Hope you enjoy and find useful these documents!
     a structure for deoxyribose nucleic acid</a>
 
 <hr>
-<footer>
+<div class="footer">
   <address class="mail">
     Contact me: <a href="mailto:juan.arboleda2@udea.edu.co">juan.arboleda2@udea.edu.co</a>
   </address>
-</footer>
+</div>
