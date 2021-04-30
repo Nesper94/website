@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # About me
 
 I am a graduate student currently working in the [Grupo de Fundamentos y
