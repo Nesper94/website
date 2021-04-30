@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="images/nea-onnim-g.svg">
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
@@ -24,13 +25,15 @@
 
         <nav>
           <img src="images/nea-onnim-nav.svg" alt="Nea onnim no sua, a ohu." width="50px">
-          <a href="index.html">About me</a>
-          <a href="research.html">Research</a>
-          <a href="teaching.html">Teaching</a>
-          <a href="personal.html">Personal</a>
-          <a href="translations.html">Science in Spanish</a>
+          <ul>
+            <a href="index.html">About me</a>
+            <a href="research.html">Research</a>
+            <a href="teaching.html">Teaching</a>
+            <a href="personal.html">Personal</a>
+            <a href="translations.html">Science in Spanish</a>
+          </ul>
           <a href="https://fenfisdi.weebly.com/" target="_blank"><img src="images/fenfisdi.png" alt="FENFISDI logo"
-            width="100px" id="fenfisdi"></a>
+              width="100px" id="fenfisdi"></a>
         </nav>
 
         {% if site.github.is_project_page %}

@@ -2,14 +2,6 @@
 title: Personal
 ---
 
-<head>
-  <meta charset="utf-8">
-  <title>Juan C. Arboleda R. - Personal</title>
-  <link rel="stylesheet" href="styles/main.css">
-  <link rel="shortcut icon" href="images/nea-onnim-g.svg">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-
 # Personal information
 
 Some of my hobbies are swimming, playing guitar, reading and learning
