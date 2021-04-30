@@ -24,7 +24,6 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         <nav>
-          <img src="images/nea-onnim-nav.svg" alt="Nea onnim no sua, a ohu." width="50px">
           <ul>
             <a href="index.html">About me</a>
             <a href="research.html">Research</a>
@@ -32,9 +31,10 @@
             <a href="personal.html">Personal</a>
             <a href="translations.html">Science in Spanish</a>
           </ul>
-          <a href="https://fenfisdi.weebly.com/" target="_blank"><img src="images/fenfisdi.png" alt="FENFISDI logo"
-              width="100px" id="fenfisdi"></a>
         </nav>
+
+        <a href="https://fenfisdi.weebly.com/" target="_blank"><img src="images/fenfisdi.png" alt="FENFISDI logo"
+          width="100px" id="fenfisdi"></a>
 
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
